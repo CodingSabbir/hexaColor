@@ -26,3 +26,7 @@ for(let i=0; i<6; i++){
 document.querySelector('#container').style.backgroundColor=color;
 document.querySelector('#output').innerHTML=color;
 });
+
+
+
+
